@@ -11,7 +11,8 @@
   <li>This may well be a case of the blind leading the blind, so please don't be afraid to speak up if you think we can do things better.</li>
   <li>That said, let's try and keep to the orginal design style and colours, unless there is a real concensus that the original is shockingly bad.</li>
   <li>Let's try and keep to a coding convention, indents 4 spaces, whitespace, comments if needed, etc.  Take a look at the original files if you're not sure.</li>
-  <li>Check out the issues tab, these are tasks that need doing.  I'll keep them small so that they are achievable, and allocate them accordingly so that we aren't repeating work.</li>
+  <li>Check out the issues tab, these are tasks that need doing.  I'll keep them small so that they are achievable.</li>
+  <li>If your interested in the task, say so in the comments and I'll allocate them accordingly so that we aren't repeating work.</li>
   <li>If you need to, create issues, we can then discuss and allocate them accordingly.</li>
   <li>If you can't do an allocated task, ask for help or ask to be allocated another.</li>
   <li>And finally, I setup this project up to help with understanding github and working with others. We are all learning, so let's help each other out where possible.</li>  
