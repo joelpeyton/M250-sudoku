@@ -1,6 +1,6 @@
 # M250-sudoku
 
-<h3>Collaboration of M250 students (please add yourself to this list)</h3>
+<h3>Collaboration of M250 students</h3>
   <ul>
     <li>Joel Peyton</li>
   </ul>
@@ -11,7 +11,7 @@
   <li>This may well be a case of the blind leading the blind, so please don't be afraid to speak up if you think we can do things better.</li>
   <li>That said, let's try and keep to the orginal design style and colours, unless there is a real concensus that the original is shockingly bad.</li>
   <li>Let's try and keep to a coding convention, indents 4 spaces, whitespace, comments if needed, etc.  Take a look at the original files if you're not sure.</li>
-  <li>Check out the issues tab, these are tasks that need doing.  I'll keep them small so that they are acheivable.</li>
+  <li>Check out the issues tab, these are tasks that need doing.  I'll keep them small so that they are achievable.</li>
   <li>If you need to create issues, we can discuss and allocate them accordingly.</li>
   <li>If you can't do an allocated task, ask for help or ask to be allocated another.</li>
   <li>By all means fork this project and do it yourself.</li>
