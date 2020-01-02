@@ -1,0 +1,35 @@
+.container {
+    margin-top: 20px;
+}
+
+.board {
+    border: 1px solid #d35400;
+    width: 634px;
+    height: 634px;
+    float: left;
+}
+
+.innerBlock {
+    border: 1px solid #d35400;
+    width: 68px;
+    height: 68px;
+    float: left;
+    text-align: center;
+    font-size: 60px;
+}
+
+.new {
+    margin-right: 10px;
+    width: 100px;
+    float: left;
+    color: white;
+    padding: 10px;
+    font-size: 1em;
+    background-color: #5f5f5f;
+    text-align: center;
+}
+
+.new:hover {
+    cursor: pointer;
+    background-color: #d35400;
+}
