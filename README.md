@@ -12,8 +12,8 @@
   <li>That said, let's try and keep to the orginal design style and colours, unless there is a real concensus that the original is shockingly bad.</li>
   <li>Let's try and keep to a coding convention, indents 4 spaces, whitespace, comments if needed, etc.  Take a look at the original files if you're not sure.</li>
   <li>Check out the issues tab, these are tasks that need doing.  I'll keep them small so that they are acheivable.</li>
-  <li>Please don't undertake more than one task at time, thus allowing for more people to contribute.</li>
-  <li>Likewise, if you can't do the task make it available, or ask for help.</li>
+  <li>If you need to create issues, we can discuss and allocate them accordingly.</li>
+  <li>If you can't do an allocated task, ask for help or ask to be allocated another.</li>
   <li>By all means fork this project and do it yourself.</li>
   <li>And finally, I setup this project up to help with understanding github and working with others. We are all learning, so let's help each other out where possible.</li>  
 </ol>
@@ -26,7 +26,7 @@
   <li>Upon completion, look at and discuss a java app</li>
 </ol>
 
-<p><strong>NOTE&nbsp;</strong>Think we will need to work on design layout of the game, ie HTML/CSS before we can start working on the functionality</p>
+<p><strong>NOTE&nbsp;</strong>Think we will need to work on design layout of the game initially , ie HTML/CSS before we can start working on the functionality, therefore I have only created these issues to deal.</p>
 
 
   
