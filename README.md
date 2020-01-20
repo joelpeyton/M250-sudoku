@@ -4,6 +4,7 @@
   <ul>
     <li>Joel Peyton</li>
     <li>Friends at the OU</li>
+    <li>Nick Parsons</li>
   </ul>
   
 <h3>GUIDELINES</h3>
