@@ -3,8 +3,8 @@
 <h3>Collaboration of M250 students</h3>
   <ul>
     <li>Joel Peyton</li>
-    <li>Friends at the OU</li>
     <li>Nick Parsons</li>
+    <li>Friends at the OU</li>
   </ul>
   
 <h3>GUIDELINES</h3>
@@ -38,7 +38,7 @@
   <li>This takes you to the searched repo</li>
   <li>Click the fork button, you now have repo on your account</li> 
   <li>Navigate back to your account to confirm</li>
-  <li>Next go to a command line and navigate to a directory where you want to store the new repo on youir local machine</li>
+  <li>Next go to a command line and navigate to a directory where you want to store the new repo on your local machine</li>
   <li>Type the command, substituting 'account-name' for your account name  git clone https://github.com/account-name/M250-sudoku.git</li>
   <li>You now have all working files on your local machine</li>
   <li>Type the command git status to confirm</li>
