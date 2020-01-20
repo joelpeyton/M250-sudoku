@@ -29,5 +29,31 @@
 
 <p><strong>NOTE&nbsp;</strong>Think we will need to work on design layout of the game initially , ie HTML/CSS before we can start working on the functionality, therefore I have only created these issues to deal.</p>
 
+<h3>CREATING GITHUB ACCOUNT AND FORKING THE REPOSITORY</h3>
 
+<ol>
+  <li>Create gitHub account,in this example I've used OUM250 as the account name</li>
+  <li>From your Github account search for joelpeyton/M250-sudoku</li>
+  <li>This takes you to the searched repo</li>
+  <li>Click the fork button, you now have repo on your account</li> 
+  <li>Navigate back to your account to confirm</li>
+  <li>Next go to a command line and navigate to a directory where you want to store the new repo on youir local machine</li>
+  <li>Type the command, substituting 'account-name' for your account name  git clone https://github.com/account-name/M250-sudoku.git</li>
+  <li>You now have all working files on your local machine</li>
+  <li>Type the command git status to confirm</li>
+</ol>
+
+<h3>MAKING CHANGES</h3>
+
+<ol>
+  <li>Lets add your name to the README.md file
+  <li>Open the README.md file in your favourite text editor
+  <li>Add the following line under the list of collaborators names: &lt;li&gt;Your name&lt;/li&gt;</li>
+  <li>Save the file</li>
+  <li>Type the command git status to confirm that you have made changes</li>
+  <li>Type the command git commit -a</li>
+  <li>You will then be prompted to add a message for the commit</li>
+  <li>Now type git push origin master entering your account name and password when directed</li>
+  <li>Navigate to the repo in gitHub confirms the changes</li>
+</ol>
   
