@@ -3,6 +3,7 @@
 <h3>Collaboration of M250 students</h3>
   <ul>
     <li>Joel Peyton</li>
+    <li>Friends at the OU</li>
   </ul>
   
 <h3>GUIDELINES</h3>
