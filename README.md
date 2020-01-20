@@ -32,7 +32,7 @@
 <h3>CREATING GITHUB ACCOUNT AND FORKING THE REPOSITORY</h3>
 
 <ol>
-  <li>Create gitHub account,in this example I've used OUM250 as the account name</li>
+  <li>Create a gitHub account</li>
   <li>From your Github account search for joelpeyton/M250-sudoku</li>
   <li>This takes you to the searched repo</li>
   <li>Click the fork button, you now have repo on your account</li> 
@@ -55,5 +55,14 @@
   <li>You will then be prompted to add a message for the commit</li>
   <li>Now type git push origin master entering your account name and password when directed</li>
   <li>Navigate to the repo in gitHub confirms the changes</li>
+</ol>
+
+<h3>MERGING YOUR CHANGED FILES WITH ORIGINAL REPO</h3>
+
+<ol>
+  <li>Navigate to you repo on your gitHub account</li>
+  <li>Click New pull request</li>
+  <li>Click Create pull request</li>
+  <li>Add a description for the desired merger</li>
 </ol>
   
