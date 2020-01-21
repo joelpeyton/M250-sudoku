@@ -1,0 +1,1 @@
+A text file that can have minor alterations made to it to see the effects of the various GIT operations back and forth push and pull.
